@@ -7,5 +7,3 @@ import (
 var (
 	ESclient *elastic.Client
 )
-
-//测试着玩
